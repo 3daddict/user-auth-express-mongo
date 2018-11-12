@@ -1,0 +1,16 @@
+{
+  "name": "user-auth-express-mongo",
+  "version": "1.0.0",
+  "description": "User Authentication With Express and Mongo Demo",
+  "author": "Michael Salvati",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.4",
+    "pug": "^2.0.0-beta2"
+  },
+  "license": "MIT"
+}
